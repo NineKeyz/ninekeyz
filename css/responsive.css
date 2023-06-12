@@ -1,0 +1,108 @@
+/* =======================================================
+                  GENERAL CSS
+==========================================================
+*/
+:root {
+  --bg-color: #303030;
+  --fg-color: #fff;
+  --highlight-color: #b5433b;
+  --highlight-shade-one: #E8A19B;
+  --highlight-shade-two: #E86056;
+  --highlight-shade-three: #9C403A;
+  --highlight-shade-four: #885e5b;
+  --text-color-qw-light:#FFFFFF;
+  --text-color-qw-dark:#212121;
+  --text-color-qw-accent:#108bc7;
+  --text-color-qwp-light:#FFFFFF;
+  --text-color-qwp-dark:#212121;
+  --text-color-qwp-accent:#f50d5a;
+  --bg-color-qwp: #2a051c;
+  --bg-color-qwp-accent:#2a051c;
+}
+
+
+/* =======================================================
+                  BOOTSTRAP MEDIA QUERIES
+==========================================================
+*/
+
+
+/* =======================================================
+                  MINIMUM 1200
+==========================================================
+*/
+
+
+/* Large devices (Desktops and laptops)*/
+
+@media(min-width: 1200px){
+
+}
+
+/* Large devices specific range (Desktops and laptops)*/
+
+@media(min-width: 1200px) and (max-width:1700px) {
+
+
+
+}
+
+/* =======================================================
+                  MINIMUM 990
+==========================================================
+*/
+
+
+/* Medium devices (Landscape tablets and medium desktops)*/
+@media(min-width:992px) and (max-width:1199px){
+
+}
+ 
+
+/* =======================================================
+                  MINIMUM 770
+==========================================================
+*/
+
+
+/* Small devices (Portrait tablets and small desktops) */
+@media(min-width:768px) and (max-width:991px){
+
+  
+
+}
+
+/* =======================================================
+                  MAXIMUM 770
+==========================================================
+*/
+
+
+/* Extra small devices (Phones and very small desktops) */
+@media (max-width:767px){
+
+  
+}
+
+
+/* =======================================================
+                  MAXIMUM 480
+==========================================================
+*/
+
+/* Extra small devices (Smaller devices) */
+@media(max-width:480px){
+
+  
+}
+
+/* =======================================================
+                  MAXIMUM 320
+==========================================================
+*/
+
+/* Extra small devices (Smaller devices) */
+@media(max-width:320px){
+
+
+}

@@ -1,0 +1,47 @@
+/* ------------------------------------------------------------------------
+
+DEFAULT VALUES
+
+Font family:        Standard
+
+Accent color:       CHANGE
+Dark BG color:      CHANGE
+Light BG color:     CHANGE
+
+
+------------------------------------------------------------------------ */
+
+/* =======================================================
+                        GENERAL CSS
+==========================================================
+*/
+
+
+/* TEMPORARY */
+body {
+  background-image: url("../media/img/under-construction.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #2b2b2b;
+}
+/*  ------------- */
+
+:root {
+  --bg-color: #303030;
+  --fg-color: #fff;
+  --highlight-color: #b5433b;
+  --highlight-color-qwp:#D11F29;
+  --highlight-shade-one: #E8A19B;
+  --highlight-shade-two: #E86056;
+  --highlight-shade-three: #9C403A;
+  --highlight-shade-four: #885e5b;
+  --text-color-qw-light:#FFFFFF;
+  --text-color-qw-dark:#212121;
+  --text-color-qw-accent:#108bc7;
+  --text-color-qwp-light:#FFFFFF;
+  --text-color-qwp-dark:#212121;
+  --text-color-qwp-accent:#f50d5a;
+  --bg-color-qwp: #2a051c;
+  --bg-color-qwp-accent:#2a051c;
+}
+
