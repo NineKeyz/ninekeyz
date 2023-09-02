@@ -1,2 +1,2 @@
-# ninekeyz-website
+# ninekeyz
  Website of #NineKeyz
