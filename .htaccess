@@ -1,3 +1,6 @@
 RewriteEngine On
+RewriteCond %{HTTP_HOST} ninekeyz\.com
+RewriteRule (.*) http://www.ninekeyz.com/$1 [R=301,L]
+
 RewriteCond %{SERVER_PORT} !^443$
 RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
